@@ -2,5 +2,5 @@
 packages
 **/App_Data
 **/u
-**/obj/**
-**/bin/**
+obj
+bin
