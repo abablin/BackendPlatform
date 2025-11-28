@@ -1,0 +1,15 @@
+C:\Programs\BackendPlatform\BackendPlatform.Service\bin\Release\net9.0\BackendPlatform.Service.deps.json
+C:\Programs\BackendPlatform\BackendPlatform.Service\bin\Release\net9.0\BackendPlatform.Service.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service\bin\Release\net9.0\BackendPlatform.Service.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service\bin\Release\net9.0\BackendPlatform.Core.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service\bin\Release\net9.0\BackendPlatform.Core.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.csproj.AssemblyReference.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.AssemblyInfoInputs.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.AssemblyInfo.cs
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.csproj.CoreCompileInputs.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendP.54A1C478.Up2Date
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\refint\BackendPlatform.Service.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\BackendPlatform.Service.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service\obj\Release\net9.0\ref\BackendPlatform.Service.dll

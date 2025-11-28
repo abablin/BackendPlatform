@@ -1,0 +1,43 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net9.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Include="appsettings.FullRich.K8SDEV.DB.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="appsettings.FullRich.K8SDEV.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+    <Content Include="appsettings.FullRich.K8SDEV.LOG.json">
+      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
+      <ExcludeFromSingleFile>true</ExcludeFromSingleFile>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+    </Content>
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BackendPlatform.API\BackendPlatform.API.csproj" />
+    <ProjectReference Include="..\BackendPlatform.Service.FullRich\BackendPlatform.Service.FullRich.csproj" />
+    <ProjectReference Include="..\BackendPlatform.Service\BackendPlatform.Service.csproj" />
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+	<!-- 複製DLL檔 -->
+    <Exec Command="copy $(TargetPath) $(SolutionDir)BackendPlatform.API\$(OutDir)$(TargetFileName) /Y" />
+	
+	<!-- 複製設定檔 -->
+	<Exec Command="copy $(TargetDir)appsettings.FullRich.K8SDEV.json $(SolutionDir)BackendPlatform.API\appsettings.FullRich.K8SDEV.json /Y" />
+	<Exec Command="copy $(TargetDir)appsettings.FullRich.K8SDEV.DB.json $(SolutionDir)BackendPlatform.API\appsettings.FullRich.K8SDEV.DB.json /Y" />
+	<Exec Command="copy $(TargetDir)appsettings.FullRich.K8SDEV.LOG.json $(SolutionDir)BackendPlatform.API\appsettings.FullRich.K8SDEV.LOG.json /Y" />
+  </Target>
+
+</Project>

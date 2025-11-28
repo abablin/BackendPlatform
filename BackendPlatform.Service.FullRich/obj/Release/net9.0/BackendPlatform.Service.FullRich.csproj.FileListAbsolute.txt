@@ -1,0 +1,17 @@
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Service.FullRich.deps.json
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Service.FullRich.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Service.FullRich.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Service.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Service.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.csproj.AssemblyReference.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.AssemblyInfoInputs.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.AssemblyInfo.cs
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.csproj.CoreCompileInputs.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendP.4640370B.Up2Date
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\refint\BackendPlatform.Service.FullRich.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\BackendPlatform.Service.FullRich.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\obj\Release\net9.0\ref\BackendPlatform.Service.FullRich.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Core.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.FullRich\bin\Release\net9.0\BackendPlatform.Core.pdb

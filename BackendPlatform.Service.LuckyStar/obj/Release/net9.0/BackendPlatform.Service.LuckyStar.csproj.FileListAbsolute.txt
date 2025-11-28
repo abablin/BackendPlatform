@@ -1,0 +1,17 @@
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Service.LuckyStar.deps.json
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Service.LuckyStar.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Service.LuckyStar.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Service.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Service.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.csproj.AssemblyReference.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.AssemblyInfoInputs.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.AssemblyInfo.cs
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.csproj.CoreCompileInputs.cache
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendP.43648DE3.Up2Date
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\refint\BackendPlatform.Service.LuckyStar.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\BackendPlatform.Service.LuckyStar.pdb
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\obj\Release\net9.0\ref\BackendPlatform.Service.LuckyStar.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Core.dll
+C:\Programs\BackendPlatform\BackendPlatform.Service.LuckyStar\bin\Release\net9.0\BackendPlatform.Core.pdb
